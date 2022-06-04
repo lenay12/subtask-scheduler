@@ -9,7 +9,7 @@ We keep track of the main events that require scheduling in the [Scheduled Event
 
 Clicking on each event will take you to the detailed documentation of what the event should be.  For example Summer Camp documentation looks like [this](https://docs.google.com/document/d/1L_HFWqTVGjgLVNXgbGlMLP17pOeAmCS7IoQEoQVPDZg/edit).  These tables contain subtasks required to run the event stored in "Preparation" and "Aftermath" tables.  As the names imply, the tasks will need to be completed some amount of time before or after the event.
 
-The scheduled events go to the [following google calendar](https://calendar.google.com/calendar/ical/ifkvu9ip2slqml42kiofdah138%40group.calendar.google.com/public/basic.ics)
+The scheduled events go to the [following google calendar](https://calendar.google.com/calendar/embed?src=ifkvu9ip2slqml42kiofdah138%40group.calendar.google.com&ctz=America%2FNew_York)
 
 ## What's not included, but necessary
 
